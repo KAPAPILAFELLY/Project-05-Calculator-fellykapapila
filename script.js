@@ -152,3 +152,4 @@ form.addEventListener("reset", function() {
 function clearResult() {
   result = calculate();
 }
+//felly
